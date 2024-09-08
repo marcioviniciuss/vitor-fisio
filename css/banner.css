@@ -1,5 +1,5 @@
 #banner {
-    background: linear-gradient(356deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 0) 25%), url("../assets/banner.png");
+    background: linear-gradient(356deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 0) 25%), url("../assets/banner.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
