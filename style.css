@@ -1,0 +1,27 @@
+@import url("./css/header.css");
+@import url("./css/banner.css");
+@import url("./css/servicos.css");
+
+:root {
+    --preto: #000;
+    --cor-principal: #363b4e;
+    --cor-secundaria: #4f3b78;
+    --cor-terciaria: #927fbf;
+    --cor-quartenaria: #c4bbf0;
+    --cor-fundo: #dbdbdb;
+    --fonte-principal: "Poppins", sans-serif;
+    --fonte-secundaria: "Lato", sans-serif;
+    font-size: 16px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    min-height: 100vh;
+}
