@@ -54,6 +54,15 @@
     animation: pulsacao 2s infinite;
 }
 
+.botao-whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 5px;
+    /* border: 1px solid #FFFFFF; */
+    border-radius: 50%;
+}
+
 @keyframes pulsacao {
     0% {
         transform: scale(1);
