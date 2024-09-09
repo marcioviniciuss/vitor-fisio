@@ -20,7 +20,7 @@
 
 .destaque {
     color: var(--cor-secundaria);
-    border-bottom: 1px solid var(--cor-secundaria);
+    /* border-bottom: 1px solid var(--cor-secundaria); */
 }
 
 .banner-titulo {
